@@ -77,21 +77,6 @@ The **IT-Ticket** aims to create a user-friendly IT ticketing system tailored fo
    dotnet run
    ```
 
-
-## Contributing 🤝
-
-We welcome contributions to the IT-Ticket! Whether you have feature ideas, bug fixes, or general improvements, feel free to open an issue or submit a pull request.
-
 ## License 📄
 
 This project is licensed under the [MIT License](https://github.com/An0n-00/IT-Ticket/blob/main/LICENSE).
-
-### Key Modifications:
-1. **Heading Style**: I used emojis in headings for a modern and visually appealing style.
-2. **Project Overview**: I included a concise description of the project and its purpose.
-3. **Features and Roles**: I've structured the features and user roles in a list with emojis to make them more readable and engaging.
-4. **Technology Stack**: I added placeholders for technologies (you can specify the database).
-5. **Screenshots Table**: Included a table for screenshots, as seen in your example.
-6. **Contributors and License**: Incorporated badges for easy access to contribution and license information. 
-
-Let me know if you need further adjustments!
